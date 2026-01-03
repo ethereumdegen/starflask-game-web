@@ -7,9 +7,8 @@ import ImageGallery from "@/views/components/image-gallery/Main.jsx";
  
 
 const gallery_image_paths = [
-  "/blog/brokenspirit1.png",
-  "/blog/3deditor.png",
-  "/blog/broken_spirit_14.png"
+  "/blog/techpirates1.png",
+   
    
   // Add more image URLs as needed
 ]; 
@@ -19,8 +18,8 @@ function Home() {
       <main className="flex-grow">
         <div className="container mx-auto px-4 pb-12">
           <section className="pt-16 pb-8">
-            <h1 className="text-4xl font-bold mb-4"> Spirit Editor </h1>
-            <p className="text-lg mb-8 italic">A map editor for the bevy game engine.   <Link to="https://github.com/ethereumdegen/spirit_editor" className="inline-block not-italic text-blue-500 text-sm" >[view on github]</Link> </p>
+            <h1 className="text-4xl font-bold mb-4"> Tech Pirates </h1>
+            <p className="text-lg mb-8 italic">  Currently in development [2026]   </p>
             <ImageGallery
                imagePaths={gallery_image_paths}
             />

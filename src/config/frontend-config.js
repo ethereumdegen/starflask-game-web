@@ -5,9 +5,9 @@ import favicon from '@/assets/images/favicon.png'
 import punkicon from '@/assets/images/punk1164.png'
 
 const config = {
-    title: ' Doodlebuilt: Indie Games',
+    title: ' Starflask Studios',
     tagline: '',
-    url: 'https://ethereumdegen,com',
+    url: 'https://starflask.com',
     baseURL: '/',
     favicon: favicon,
     punkicon: punkicon,
@@ -24,7 +24,7 @@ const config = {
         items: [
          
           { to:'/', label:'Home' },
-          { to:'/blog', label:'Rust Gamedev Blog' },
+          { to:'/blog', label:'Gamedev Blog' },
          
           
         ],

@@ -11,7 +11,7 @@ function Footer() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 border-t border-gray-200">
 
       
-      <p className="text-sm mb-8 italic">Feel games in your spirit.</p>
+      <p className="text-sm mb-8 italic">Starflask is building the games we want to play.</p>
 
 
         {/* Top area: Blocks */}
