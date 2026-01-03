@@ -93,6 +93,13 @@ function Main(  {sidebarStore, sideMenuStore, web3Store }  ) {
             </div>
           </div>
         </div>
+
+
+
+
+
+
+
         {/* END: Notifications */}
         {/* BEGIN: Notifications */}
         <div className="intro-x mr-auto sm:mr-6 hidden ">

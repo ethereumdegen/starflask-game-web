@@ -73,7 +73,16 @@ function Header( { } ) {
             <ul className="flex flex-grow justify-end flex-wrap items-center">
  
 
-             
+
+            < div className=" ">
+               <a href="https://discord.gg/rBKZHxHThr" target="_blank"> 
+                 < div className="p-4 text-white bg-indigo-600 rounded ">
+                Discord
+                 </div>
+               </a> 
+
+           </div> 
+                 
                
             </ul>
 
